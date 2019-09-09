@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiang Huang | Academic</title>
+    <link>https://ZichaoDi.github.io/authors/xiang-huang/</link>
+      <atom:link href="https://ZichaoDi.github.io/authors/xiang-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiang Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZichaoDi.github.io/img/icon-192.png</url>
+      <title>Xiang Huang</title>
+      <link>https://ZichaoDi.github.io/authors/xiang-huang/</link>
+    </image>
+    
+    <item>
+      <title>Calibrating Sensing Drift in Tomographic Inversion</title>
+      <link>https://ZichaoDi.github.io/publication/huang-2019-calibrating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/huang-2019-calibrating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

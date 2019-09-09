@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Academic</title>
+    <link>https://ZichaoDi.github.io/publication/</link>
+      <atom:link href="https://ZichaoDi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZichaoDi.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://ZichaoDi.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Bilevel Optimization, Deep Learning and Fractional Laplacian Regularization with Applications in Tomography</title>
+      <link>https://ZichaoDi.github.io/publication/antil-2019-bilevel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/antil-2019-bilevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calibrating Sensing Drift in Tomographic Inversion</title>
+      <link>https://ZichaoDi.github.io/publication/huang-2019-calibrating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/huang-2019-calibrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Centroidal Voronoi Tessellation Based Methods for Optimal Rain Gauge Location Prediction</title>
+      <link>https://ZichaoDi.github.io/publication/di-2019-centroidal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2019-centroidal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Compression for Optimization of a Molecular Dynamics System: Preserving Basins of Attraction</title>
+      <link>https://ZichaoDi.github.io/publication/retzlaff-2019-data/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/retzlaff-2019-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-based simultaneous alignment and reconstruction in multi-element tomography</title>
+      <link>https://ZichaoDi.github.io/publication/di-2019-optimization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2019-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Sensing Error Recovery and Tomographic Inversion Using an Optimization-Based Approach</title>
+      <link>https://ZichaoDi.github.io/publication/austin-2019-simultaneous/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/austin-2019-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multigrid Optimization for Large-Scale Ptychographic Phase Retrieval</title>
+      <link>https://ZichaoDi.github.io/publication/fung-2018-multigrid/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/fung-2018-multigrid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computing Just What You Need: Online Data Analysis and Reduction at Extreme Scales</title>
+      <link>https://ZichaoDi.github.io/publication/codar-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/codar-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint reconstruction of x-ray fluorescence and transmission tomography (Editor&#39;s pick)</title>
+      <link>https://ZichaoDi.github.io/publication/di-2017-joint/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2017-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multilevel approach for a class of semidefinite programs</title>
+      <link>https://ZichaoDi.github.io/publication/lin-2016-multilevel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/lin-2016-multilevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-Based Approach for Joint X-Ray Fluorescence and Transmission Tomographic Inversion</title>
+      <link>https://ZichaoDi.github.io/publication/di-2016-optimization/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2016-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd distribution and location preference</title>
+      <link>https://ZichaoDi.github.io/publication/li-2012-crowd/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/li-2012-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Truncated Newton-based multigrid algorithm for centroidal Voronoi diagram calculation</title>
+      <link>https://ZichaoDi.github.io/publication/di-2012-truncated/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2012-truncated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Jacobsen | Academic</title>
+    <link>https://ZichaoDi.github.io/authors/chris-jacobsen/</link>
+      <atom:link href="https://ZichaoDi.github.io/authors/chris-jacobsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Jacobsen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZichaoDi.github.io/img/icon-192.png</url>
+      <title>Chris Jacobsen</title>
+      <link>https://ZichaoDi.github.io/authors/chris-jacobsen/</link>
+    </image>
+    
+    <item>
+      <title>Joint reconstruction of x-ray fluorescence and transmission tomography (Editor&#39;s pick)</title>
+      <link>https://ZichaoDi.github.io/publication/di-2017-joint/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2017-joint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

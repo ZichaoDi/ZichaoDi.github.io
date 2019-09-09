@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Academic</title>
+    <link>https://ZichaoDi.github.io/publication_types/1/</link>
+      <atom:link href="https://ZichaoDi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZichaoDi.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://ZichaoDi.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Calibrating Sensing Drift in Tomographic Inversion</title>
+      <link>https://ZichaoDi.github.io/publication/huang-2019-calibrating/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/huang-2019-calibrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Compression for Optimization of a Molecular Dynamics System: Preserving Basins of Attraction</title>
+      <link>https://ZichaoDi.github.io/publication/retzlaff-2019-data/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/retzlaff-2019-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multilevel approach for a class of semidefinite programs</title>
+      <link>https://ZichaoDi.github.io/publication/lin-2016-multilevel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/lin-2016-multilevel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

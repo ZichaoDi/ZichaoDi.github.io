@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sven Leyffer | Academic</title>
+    <link>https://ZichaoDi.github.io/authors/sven-leyffer/</link>
+      <atom:link href="https://ZichaoDi.github.io/authors/sven-leyffer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sven Leyffer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZichaoDi.github.io/img/icon-192.png</url>
+      <title>Sven Leyffer</title>
+      <link>https://ZichaoDi.github.io/authors/sven-leyffer/</link>
+    </image>
+    
+    <item>
+      <title>Optimization-based simultaneous alignment and reconstruction in multi-element tomography</title>
+      <link>https://ZichaoDi.github.io/publication/di-2019-optimization/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2019-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simultaneous Sensing Error Recovery and Tomographic Inversion Using an Optimization-Based Approach</title>
+      <link>https://ZichaoDi.github.io/publication/austin-2019-simultaneous/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/austin-2019-simultaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint reconstruction of x-ray fluorescence and transmission tomography (Editor&#39;s pick)</title>
+      <link>https://ZichaoDi.github.io/publication/di-2017-joint/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2017-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multilevel approach for a class of semidefinite programs</title>
+      <link>https://ZichaoDi.github.io/publication/lin-2016-multilevel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/lin-2016-multilevel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization-Based Approach for Joint X-Ray Fluorescence and Transmission Tomographic Inversion</title>
+      <link>https://ZichaoDi.github.io/publication/di-2016-optimization/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2016-optimization/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

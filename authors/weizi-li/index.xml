@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weizi Li | Academic</title>
+    <link>https://ZichaoDi.github.io/authors/weizi-li/</link>
+      <atom:link href="https://ZichaoDi.github.io/authors/weizi-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weizi Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZichaoDi.github.io/img/icon-192.png</url>
+      <title>Weizi Li</title>
+      <link>https://ZichaoDi.github.io/authors/weizi-li/</link>
+    </image>
+    
+    <item>
+      <title>Crowd distribution and location preference</title>
+      <link>https://ZichaoDi.github.io/publication/li-2012-crowd/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/li-2012-crowd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Viviana Maggioni | Academic</title>
+    <link>https://ZichaoDi.github.io/authors/viviana-maggioni/</link>
+      <atom:link href="https://ZichaoDi.github.io/authors/viviana-maggioni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Viviana Maggioni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZichaoDi.github.io/img/icon-192.png</url>
+      <title>Viviana Maggioni</title>
+      <link>https://ZichaoDi.github.io/authors/viviana-maggioni/</link>
+    </image>
+    
+    <item>
+      <title>Centroidal Voronoi Tessellation Based Methods for Optimal Rain Gauge Location Prediction</title>
+      <link>https://ZichaoDi.github.io/publication/di-2019-centroidal/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2019-centroidal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

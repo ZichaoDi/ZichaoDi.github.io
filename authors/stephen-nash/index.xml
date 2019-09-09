@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen Nash | Academic</title>
+    <link>https://ZichaoDi.github.io/authors/stephen-nash/</link>
+      <atom:link href="https://ZichaoDi.github.io/authors/stephen-nash/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen Nash</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ZichaoDi.github.io/img/icon-192.png</url>
+      <title>Stephen Nash</title>
+      <link>https://ZichaoDi.github.io/authors/stephen-nash/</link>
+    </image>
+    
+    <item>
+      <title>Truncated Newton-based multigrid algorithm for centroidal Voronoi diagram calculation</title>
+      <link>https://ZichaoDi.github.io/publication/di-2012-truncated/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2012-truncated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
