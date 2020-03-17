@@ -5,12 +5,28 @@
     <link>https://ZichaoDi.github.io/</link>
       <atom:link href="https://ZichaoDi.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Zichao Wendy Di</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZichaoDi.github.io/img/icon-192.png</url>
       <title>Zichao Wendy Di</title>
       <link>https://ZichaoDi.github.io/</link>
     </image>
+    
+    <item>
+      <title>Centroidal Voronoi tessellation based methods for optimal rain gauge location prediction</title>
+      <link>https://ZichaoDi.github.io/publication/di-2020-centroidal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2020-centroidal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multigrid Optimization for Large-Scale Ptychographic Phase Retrieval</title>
+      <link>https://ZichaoDi.github.io/publication/fung-2018-multigrid/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/fung-2018-multigrid/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bilevel Optimization, Deep Learning and Fractional Laplacian Regularization with Applications in Tomography</title>
@@ -41,14 +57,6 @@
       <link>https://ZichaoDi.github.io/publication/retzlaff-2019-data/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://ZichaoDi.github.io/publication/retzlaff-2019-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multigrid Optimization for Large-Scale Ptychographic Phase Retrieval</title>
-      <link>https://ZichaoDi.github.io/publication/fung-2018-multigrid/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ZichaoDi.github.io/publication/fung-2018-multigrid/</guid>
       <description></description>
     </item>
     

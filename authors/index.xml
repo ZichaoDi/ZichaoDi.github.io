@@ -5,12 +5,76 @@
     <link>https://ZichaoDi.github.io/authors/</link>
       <atom:link href="https://ZichaoDi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZichaoDi.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>https://ZichaoDi.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Maria Emelianenko</title>
+      <link>https://ZichaoDi.github.io/authors/maria-emelianenko/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/authors/maria-emelianenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marilyn Vazquez</title>
+      <link>https://ZichaoDi.github.io/authors/marilyn-vazquez/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/authors/marilyn-vazquez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Houser</title>
+      <link>https://ZichaoDi.github.io/authors/paul-houser/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/authors/paul-houser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samy Wu Fung</title>
+      <link>https://ZichaoDi.github.io/authors/samy-wu-fung/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/authors/samy-wu-fung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Viviana Maggioni</title>
+      <link>https://ZichaoDi.github.io/authors/viviana-maggioni/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/authors/viviana-maggioni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiwen Mei</title>
+      <link>https://ZichaoDi.github.io/authors/yiwen-mei/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/authors/yiwen-mei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zichao Wendy</title>
+      <link>https://ZichaoDi.github.io/authors/zichao-wendy/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/authors/zichao-wendy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zichao Wendy Di</title>
+      <link>https://ZichaoDi.github.io/authors/zichao-wendy-di/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/authors/zichao-wendy-di/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anthony P Austin</title>
@@ -37,22 +101,6 @@
     </item>
     
     <item>
-      <title>Maria Emelianenko</title>
-      <link>https://ZichaoDi.github.io/authors/maria-emelianenko/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ZichaoDi.github.io/authors/maria-emelianenko/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marilyn Vazquez</title>
-      <link>https://ZichaoDi.github.io/authors/marilyn-vazquez/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ZichaoDi.github.io/authors/marilyn-vazquez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michael Retzlaff</title>
       <link>https://ZichaoDi.github.io/authors/michael-retzlaff/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -61,26 +109,10 @@
     </item>
     
     <item>
-      <title>Paul Houser</title>
-      <link>https://ZichaoDi.github.io/authors/paul-houser/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ZichaoDi.github.io/authors/paul-houser/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ratna Khatri</title>
       <link>https://ZichaoDi.github.io/authors/ratna-khatri/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://ZichaoDi.github.io/authors/ratna-khatri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Samy Wu Fung</title>
-      <link>https://ZichaoDi.github.io/authors/samy-wu-fung/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ZichaoDi.github.io/authors/samy-wu-fung/</guid>
       <description></description>
     </item>
     
@@ -133,14 +165,6 @@
     </item>
     
     <item>
-      <title>Viviana Maggioni</title>
-      <link>https://ZichaoDi.github.io/authors/viviana-maggioni/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ZichaoDi.github.io/authors/viviana-maggioni/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xiang Huang</title>
       <link>https://ZichaoDi.github.io/authors/xiang-huang/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -149,26 +173,10 @@
     </item>
     
     <item>
-      <title>Yiwen Mei</title>
-      <link>https://ZichaoDi.github.io/authors/yiwen-mei/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ZichaoDi.github.io/authors/yiwen-mei/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zichao Di</title>
       <link>https://ZichaoDi.github.io/authors/zichao-di/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://ZichaoDi.github.io/authors/zichao-di/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zichao Wendy Di</title>
-      <link>https://ZichaoDi.github.io/authors/zichao-wendy-di/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://ZichaoDi.github.io/authors/zichao-wendy-di/</guid>
       <description></description>
     </item>
     

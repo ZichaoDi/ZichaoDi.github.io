@@ -5,12 +5,20 @@
     <link>https://ZichaoDi.github.io/authors/marilyn-vazquez/</link>
       <atom:link href="https://ZichaoDi.github.io/authors/marilyn-vazquez/index.xml" rel="self" type="application/rss+xml" />
     <description>Marilyn Vazquez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ZichaoDi.github.io/img/icon-192.png</url>
       <title>Marilyn Vazquez</title>
       <link>https://ZichaoDi.github.io/authors/marilyn-vazquez/</link>
     </image>
+    
+    <item>
+      <title>Centroidal Voronoi tessellation based methods for optimal rain gauge location prediction</title>
+      <link>https://ZichaoDi.github.io/publication/di-2020-centroidal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://ZichaoDi.github.io/publication/di-2020-centroidal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Centroidal Voronoi Tessellation Based Methods for Optimal Rain Gauge Location Prediction</title>
