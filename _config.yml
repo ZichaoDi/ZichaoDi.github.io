@@ -86,7 +86,7 @@ author:
   location         : "Mathematics and Computer Science Division"
   employer         :
       # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-      googlescholar    : "https://scholar.google.com/citations?user=DBMfHw4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=DBMfHw4AAAAJ&hl=en"
   email            : "wendydi@anl.gov"
       # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
