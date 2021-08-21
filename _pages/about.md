@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 Under construction ...
+
 <!---
 A data-driven personal website
 ======
