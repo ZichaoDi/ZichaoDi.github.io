@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Under construction ...
+I am a Computational Mathematician whose research focuses on the generalization of multilevel methods for solving optimization problems, with applications ranging from vector quantization and optimal control to inverse problems. I am also interested in information integration and multimodal data analysis, particularly for x-ray data sources.
+
+More broadly, my work centers on developing mathematical models and efficient optimization methods to address challenging problems arising from real-world phenomena.
 
 <!---
 A data-driven personal website
