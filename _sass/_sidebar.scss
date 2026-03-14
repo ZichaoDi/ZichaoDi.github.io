@@ -237,7 +237,9 @@
 }
 
 @include breakpoint($large) {
-  .page {
-    padding-left: 7.5em;
+  .page,
+  .archive {
+    position: relative;
+    left: 2.5em;
   }
 }
