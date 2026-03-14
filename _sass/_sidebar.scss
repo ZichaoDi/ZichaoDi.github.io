@@ -217,8 +217,7 @@
   }
 
   li {
-    white-space: normal;
-    overflow-wrap: break-word;
+    white-space: nowrap;
   }
 
   a {
@@ -234,5 +233,11 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+}
+
+@include breakpoint($large) {
+  .page {
+    padding-left: 1.5em;
   }
 }
