@@ -16,22 +16,8 @@ Education
 
 Professional experience
 ======
-* 2021 -- present: Fellow 
-  * NAISE 
-  * Northwestern University 
-
-* 2021 -- present: Computational Mathematician
-  * Mathematics and Computer Science Division/X-ray Science Division 
-  * Argonne National Lab
-
-* 2020 -- present: Affiliate 
-  * Center of Mathematics and Artificial Intelligence 
-  * George Mason University
-
-* 2016 -- 2021: Assistant Computational Scientist
-  * Mathematics and Computer Science Division/X-ray Science Division 
-  * Argonne National Lab
-  
-* 2013 -- 2016: Postdoc 
-  * Mathematics and Computer Science Division 
-  * Argonne National Lab
+* 2021 -- present: Fellow, NAISE, Northwestern University
+* 2021 -- present: Computational Mathematician, Mathematics and Computer Science Division/X-ray Science Division, Argonne National Lab
+* 2020 -- present: Affiliate, Center of Mathematics and Artificial Intelligence, George Mason University
+* 2016 -- 2021: Assistant Computational Scientist, Mathematics and Computer Science Division/X-ray Science Division, Argonne National Lab
+* 2013 -- 2016: Postdoc, Mathematics and Computer Science Division, Argonne National Lab
