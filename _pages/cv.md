@@ -16,6 +16,7 @@ Education
 
 Professional experience
 ======
+* 2024 -- present: Honorary Fellow, Data Science Institute, University of Wisconsin - Madison
 * 2021 -- present: Fellow, NAISE, Northwestern University
 * 2021 -- present: Computational Mathematician, Mathematics and Computer Science Division/X-ray Science Division, Argonne National Lab
 * 2020 -- present: Affiliate, Center of Mathematics and Artificial Intelligence, George Mason University
